@@ -1,0 +1,2 @@
+# wikijs
+trembit_server
